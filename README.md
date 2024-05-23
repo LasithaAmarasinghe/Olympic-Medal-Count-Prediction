@@ -12,8 +12,9 @@ You can find the code for this project in the following files:
 - [Olympic Medal Count Prediction.ipynb](https://github.com/LasithaAmarasinghe/Olympic-Medal-Count-Prediction/blob/4a6fb8e1f865840f4dd589a667c3b327f050edeb/Olympic%20Medal%20Count%20Prediction.ipynb): The main project code.
 - [Data Preparetion.ipynb](https://github.com/LasithaAmarasinghe/Olympic-Medal-Count-Prediction/blob/4a6fb8e1f865840f4dd589a667c3b327f050edeb/Data%20Prep.ipynb): The code to generate the team-level dataset from an athlete-level dataset.
 
-## Technologies 
+## Technologies/ Tools
 
+* Jupyter Notebooks
 * Python 3.10.12
 * Python packages
   * Pandas
