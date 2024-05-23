@@ -14,12 +14,12 @@ You can find the code for this project in the following files:
 
 ## Technologies 
 
-* Kaggle
 * Python 3.10.12
-* Pandas
-* Numpy
-* Scikit-learn
-* Seaborn
+* Python packages
+  * Pandas
+  * Numpy
+  * Scikit-learn
+  * Seaborn
 
 ## Data
 
