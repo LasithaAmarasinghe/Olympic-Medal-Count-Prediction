@@ -5,6 +5,13 @@
 - This project uses linear regression to predict the medal count for various countries in the Olympic Games. 
 - This repository contains the code and resources necessary to build and utilize the predictor.
 
+## Key Steps
+
+- **Data Collection**: Obtain historical Olympic medal count data for various countries.
+- **Data Preprocessing**: Clean and preprocess the data to prepare it for training.
+- **Model Training**: Train the linear regression model using the preprocessed data.
+- **Prediction**: Use the trained model to make predictions for the upcoming Olympic Games.
+
 ## Code
 
 You can find the code for this project in the following files:
@@ -14,7 +21,7 @@ You can find the code for this project in the following files:
 
 ## Technologies/ Tools
 
-* Jupyter Notebooks
+* Jupyter Notebook
 * Python 3.10.12
 * Python packages
   * Pandas
