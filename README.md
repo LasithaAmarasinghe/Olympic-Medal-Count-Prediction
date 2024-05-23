@@ -2,7 +2,7 @@
 
 ## Overview
 
-- This project uses linear regression to predict the medal count for various countries in the Olympic Games. 
+- This project uses **Linear Regression** to predict the medal count for various countries in the Olympic Games. 
 - This repository contains the code and resources necessary to build and utilize the predictor.
 
 ## Key Steps
