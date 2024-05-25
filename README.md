@@ -13,7 +13,7 @@
 - **Data Collection**: Obtain historical Olympic medal count data for various countries.
 - **Data Preprocessing**: Clean and preprocess the data to prepare it for training.
 - **Model Training**: Train the linear regression model using the preprocessed data.
-- **Prediction**: Use the trained model to make predictions for the upcoming Olympic Games.
+- **Prediction**: Use the trained model to predict the upcoming Olympic Games medals.
 
 ## Code
 
