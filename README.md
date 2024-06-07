@@ -34,7 +34,7 @@ You can find the code for this project in the following files:
 
 ## Data
 
-I'm using data from the Olympics, which was originally on [Kaggle](https://www.kaggle.com/datasets/heesoo37/120-years-of-olympic-history-athletes-and-results).
+Data used are from the Olympics, which was originally on [Kaggle](https://www.kaggle.com/datasets/heesoo37/120-years-of-olympic-history-athletes-and-results).
 
-You can download the files used in this project here:
+You can download the data set used in this project here:
 * [Olympic.csv](https://github.com/LasithaAmarasinghe/Olympic-Medal-Count-Prediction/blob/af2fcbcb2e5e7680be7a7a1985b3b0e90f043cc0/Olympic.csv)
