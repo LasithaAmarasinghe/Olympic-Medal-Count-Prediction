@@ -24,13 +24,13 @@ You can find the code for this project in the following files:
 
 ## Technologies/ Tools
 
-* Jupyter Notebook
+* Jupyter Notebook / [Google Colab](https://colab.research.google.com/)
 * Python 3.10.12
 * Python packages
-  * Pandas
-  * Numpy
-  * Scikit-learn
-  * Seaborn
+  * Pandas - `pip install pandas`
+  * Numpy - `pip install numpy`
+  * Scikit-learn - `pip install scikit-learn`
+  * Seaborn - `pip install seaborn`
 
 ## Data
 
