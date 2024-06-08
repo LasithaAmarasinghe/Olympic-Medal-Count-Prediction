@@ -1,6 +1,7 @@
 # Olympic-Medal-Count-Prediction
-![](https://github.com/LasithaAmarasinghe/Olympic-Medal-Count-Prediction/assets/106037441/66150f8b-b49e-4af1-9236-9d356a64ab76)
-![download](https://github.com/LasithaAmarasinghe/Olympic-Medal-Count-Prediction/assets/106037441/c9dad61d-acd3-4113-a38f-db9d6b6e59e8)
+
+![file (1)](https://github.com/LasithaAmarasinghe/Olympic-Medal-Count-Prediction/assets/106037441/ba44c0d8-bbb5-4168-8223-dbbfe9798924)
+![file (2)](https://github.com/LasithaAmarasinghe/Olympic-Medal-Count-Prediction/assets/106037441/c66e81c7-eed4-4505-9efd-364c951644ad)
 
 
 ## Overview
