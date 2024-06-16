@@ -35,10 +35,10 @@ You can find the code for this project in the following files:
 
 ![Python](https://img.shields.io/badge/python-3670A0?logo=python&logoColor=FFFF00)
 ![Jupyter Notebook](https://img.shields.io/badge/jupyter-%23FA0F00.svg?logo=jupyter&logoColor=white)
-![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?logo=pandas&logoColor=white)
+![Pandas](https://img.shields.io/badge/pandas_-%20green?logo=pandas)
 ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?logo=numpy&logoColor=white)
 ![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?logo=scikit-learn&logoColor=FFFFFF)
-![seaborn](https://img.shields.io/badge/seaborn-%234ea94b.svg?&logoColor=white)
+![seaborn](https://img.shields.io/badge/seaborn_-&logoColor=blue)
 
 ## Data
 
