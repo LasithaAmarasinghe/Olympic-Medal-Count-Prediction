@@ -38,8 +38,7 @@ You can find the code for this project in the following files:
 ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?logo=pandas&logoColor=white)
 ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?logo=numpy&logoColor=white)
 ![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?logo=scikit-learn&logoColor=FFFFFF)
-
-
+![seaborn](https://img.shields.io/badge/seaborn-%234ea94b.svg?&logoColor=white)
 
 ## Data
 
