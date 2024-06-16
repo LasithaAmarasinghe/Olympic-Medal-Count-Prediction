@@ -33,6 +33,14 @@ You can find the code for this project in the following files:
   * Scikit-learn - `pip install scikit-learn`
   * Seaborn - `pip install seaborn`
 
+![Python](https://img.shields.io/badge/python-3670A0?logo=python&logoColor=FFFF00)
+![Jupyter Notebook](https://img.shields.io/badge/jupyter-%23FA0F00.svg?logo=jupyter&logoColor=white)
+![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?logo=pandas&logoColor=white)
+![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?logo=numpy&logoColor=white)
+![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?logo=scikit-learn&logoColor=FFFFFF)
+
+
+
 ## Data
 
 Data used are from the Olympics, which was originally on [Kaggle](https://www.kaggle.com/datasets/heesoo37/120-years-of-olympic-history-athletes-and-results).
